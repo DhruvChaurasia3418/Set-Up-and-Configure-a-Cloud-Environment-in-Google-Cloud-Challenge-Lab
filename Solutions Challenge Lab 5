@@ -1,4 +1,7 @@
 
+export USER_NAME2=
+
+
 Task 1 ==>
 
 gcloud compute networks create griffin-dev-vpc --subnet-mode custom
